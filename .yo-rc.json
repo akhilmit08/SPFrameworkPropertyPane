@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.7.1",
+    "libraryName": "eom-react",
+    "libraryId": "f1f39be3-cb83-4712-b198-92f38eb4c365",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

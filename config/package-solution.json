@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "eom-react-client-side-solution",
+    "id": "f1f39be3-cb83-4712-b198-92f38eb4c365",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/eom-react.sppkg"
+  }
+}
